@@ -9,5 +9,8 @@
     <ErrorReportUrlHistory />
     <FallbackCulture>es-ES</FallbackCulture>
     <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <SignAssembly>False</SignAssembly>
+    <AssemblyOriginatorKeyFile>migh.player.snk</AssemblyOriginatorKeyFile>
+    <DelaySign>False</DelaySign>
   </PropertyGroup>
 </Project>
